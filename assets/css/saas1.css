@@ -1,0 +1,215 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    font-family: Arial, sans-serif;
+}
+
+
+.header {
+    display: flex;                
+    justify-content: space-between; 
+    align-items: center;         
+    padding: 30px 165px;          
+    height: 100px;                
+}
+
+
+.fabrx {
+    width: auto;                  
+    height: 50px;               
+}
+
+
+.bruce {
+    width: auto;                  
+    height: 50px; 
+    margin-left: 500px;                
+}
+
+
+.icons {
+    width: auto;                  
+    height: 50px;                 
+}
+
+
+.secondheader h1{
+    width: 540px;
+    height: 140px;
+    gap: 0px;
+    opacity: 0px;
+    color: white;
+    font-family: Montserrat;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 70px;
+    letter-spacing: -0.699999988079071px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    margin-left:165px ;
+    margin-top: 140px;
+}   
+
+.secondheader p{
+color: white;
+width: 540px;
+height: 96px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+margin-left: 165px;
+margin-top:16px ;
+}
+
+.big{
+    margin-left: 800px;
+    margin-top: -350px;
+}
+
+.apple{
+    margin-left: 165px;
+}
+
+.thirdpart h3{
+color:#807E7E;
+width: 176px;
+height: 24px;
+top: 56px;
+left: 165px;
+gap: 0px;
+opacity:1;
+font-family: Open Sans;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+margin-left:165px ;
+}
+
+.thirdpart img{
+    margin-left: 165px;
+    margin-top: 24px;
+}
+
+
+.fourthpart h3{
+    color: white;
+    margin-top: 120px;
+    margin-left: 165px;
+}
+
+.fourthpart h1{
+    color: white;
+    margin-left: 165px;
+}
+
+.fourthpart img{
+    margin-left: 165px;
+    width: 1109.99px;
+    height: 365px;
+    top: 214px;
+    left: 0px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top:104px ;
+}
+
+
+.fivepart h2{
+    color: white;
+    margin-left: 165px;
+    margin-top:209px ;
+}
+
+.fivepart img{
+width: 540px;
+height: 497.24px;
+top: 7.54px;
+left: 570px;
+gap: 0px;
+opacity: 1;
+margin-left: 1000px;
+margin-top: -2900px;
+}
+
+.fivepart h1{
+    margin-top: 20px;
+}
+
+.fivepart p{
+color: white;
+width: 538px;
+height: 96px;
+gap: 0px;
+opacity:1;
+margin-left: 165px;
+margin-top:24px;
+}
+
+.learn{
+margin-top: -3900px;
+}
+
+.sixtparth h1{
+width: 647px;
+height: 48px;
+top: 46px;
+left: 232px;
+gap: 0px;
+opacity: 0px;
+text-align: center;
+margin-top:100px;
+margin-left: 780px;
+}
+
+.sixtparth img{
+    margin-left: 580px;
+}
+
+.sevenpart h3{
+    width: 74px;
+    height: 30px;
+    left: 518px;
+    gap: 0px;
+    opacity: 0px;
+    margin-left: 1080px;    
+}
+
+.sevenpart h1{
+    width: 647px;
+    height: 96px;
+    top: 46px;
+    left: 232px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: -0.4000000059604645px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    margin-left:780px;
+}
+
+
+.sevenpart img{
+    margin-left:580px;
+}
+
+
